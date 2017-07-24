@@ -31,4 +31,4 @@ Once you are completed with `Section 1`, go to `Section 2: CSS`:
 
 Go through all those videos (videos `39`-`75`) Feel free to do the quizzes he has on there. It will help you review the most important parts.
 
-**Message me when you have completed these.** This means you are ready for a session with me. In the session, we will decide on an app you want to build. So prepare ahead of time and think of ideas. But by that time, if you can think of one, then we will use a website to copy (use as a reference that will help you learn the basics).
+**Message me when you have completed these.** This means you are ready for a session with me. In the session, we will decide on an app you want to build. So prepare ahead of time and think of ideas. But by that time, if you can't think of one, then we will use a website to copy (use as a reference that will help you learn the basics).
