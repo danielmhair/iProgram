@@ -11,13 +11,13 @@ Now that you understand why we learn these two first, lets Begin. You will go th
 Click on this [link](https://www.udemy.com/join/login-popup/?next=/complete-web-developer-course/learn/v4/content) and it will ask you for that username and password. After you login, it will take you to this page:
 
 <br/><br/>
-<img src="./img/udemy-1.png" />
+<img src="./img/udemy-1.jpg" />
 <br/><br/>
 
 As you can see, the image shows the first section, `Section 1: Getting Started and HTML`. However, scroll down the page and start with the video called `9. Hello World` (see image).
 
 <br/><br/>
-<img src="./img/udemy-2.png" />
+<img src="./img/udemy-2.jpg" />
 <br/><br/>
 
 This is where the teacher teaches you `HTML`. Go through all the videos in `Section 1` (Videos `9`-`38`). As you go through the videos, it would be helpful to follow along and even code with him as you do it.
@@ -26,7 +26,7 @@ This is where the teacher teaches you `HTML`. Go through all the videos in `Sect
 Once you are completed with `Section 1`, go to `Section 2: CSS`:
 
 <br/><br/>
-<img src="./img/udemy-3.png" />
+<img src="./img/udemy-3.jpg" />
 <br/><br/>
 
 Go through all those videos (videos `39`-`75`) Feel free to do the quizzes he has on there. It will help you review the most important parts.
