@@ -14,7 +14,7 @@ Click on this [link](https://www.udemy.com/join/login-popup/?next=/complete-web-
 <img src="./img/udemy-1.jpg" />
 <br/><br/>
 
-As you can see, the image shows the first section, `Section 1: Getting Started and HTML`. However, scroll down the page and start with the video called `9. Hello World` (see image).
+As you can see, the image shows the first section, `Section 1: Getting Started and HTML`. However, scroll down the page and start with the video called `9. Hello World` (see image). You can click on [this link](https://www.udemy.com/complete-web-developer-course/learn/v4/t/lecture/1232724?start=0) to go directly to that video.
 
 <br/><br/>
 <img src="./img/udemy-2.jpg" />
